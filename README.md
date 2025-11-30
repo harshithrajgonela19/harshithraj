@@ -9,3 +9,6 @@
 
 ## 📈 GitHub Stats
 ![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
+
+![Static Badge](https://img.shields.io/badge/Harshith-DevOps-green)
+
